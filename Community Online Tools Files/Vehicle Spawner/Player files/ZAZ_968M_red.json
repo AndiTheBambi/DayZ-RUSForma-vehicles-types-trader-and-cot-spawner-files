@@ -1,0 +1,18 @@
+{
+    "VehicleName": "ZAZ_968M_red",
+    "DisplayName": "ZAZ_968M_red",
+    "Parts": [
+        "ZAZ_968M_wheel",
+		"ZAZ_968M_wheel",
+		"ZAZ_968M_wheel",
+		"ZAZ_968M_wheel",
+		"ZAZ_968M_wheel",
+        "ZAZ_968M_doors_driver_red",
+        "ZAZ_968M_doors_codriver_red",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

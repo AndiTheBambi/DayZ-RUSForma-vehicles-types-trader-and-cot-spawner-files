@@ -1,0 +1,20 @@
+{
+    "VehicleName": "KAVZ685_RF_beige",
+    "DisplayName": "KAVZ685_RF_beige",
+    "Parts": [
+        "KAVZ685_RF_Wheel",
+        "KAVZ685_RF_Wheel",
+        "KAVZ685_RF_Wheel",
+        "KAVZ685_RF_WheelDouble",
+        "KAVZ685_RF_WheelDouble",
+        "KAVZ685_RF_doors_driver_beige",
+        "KAVZ685_RF_doors_cargo1_beige",
+        "KAVZ685_RF_doors_trunk_beige",
+        "KAVZ685_RF_doors_hood_beige",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

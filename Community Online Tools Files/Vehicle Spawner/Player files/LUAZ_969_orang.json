@@ -1,0 +1,20 @@
+{
+    "VehicleName": "LUAZ_969_orang",
+    "DisplayName": "LUAZ_969_orang",
+    "Parts": [
+        "LUAZ_969_doors_driver_orang",
+        "LUAZ_969_doors_codriver_orang",
+		"LUAZ_969_doors_trunk_orang",
+		"LUAZ_969_tent",
+        "LUAZ_969_wheel",
+		"LUAZ_969_wheel",
+		"LUAZ_969_wheel",
+		"LUAZ_969_wheel",
+		"LUAZ_969_wheel",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

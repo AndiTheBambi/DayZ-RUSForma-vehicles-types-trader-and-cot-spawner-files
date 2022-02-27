@@ -1,0 +1,19 @@
+{
+    "VehicleName": "ZiS5_kung",
+    "DisplayName": "ZiS5_kung",
+    "Parts": [
+        "ZiS5_Benzovoz_wheel",
+        "ZiS5_Benzovoz_wheel",
+        "ZiS5_Benzovoz_wheel",
+        "ZiS5_Benzovoz_wheelDouble",
+        "ZiS5_Benzovoz_WheelDouble",
+        "ZiS5_Benzovoz_doors_driver",
+        "ZiS5_Benzovoz_doors_codriver",
+		"ZiS5_kung_tent",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

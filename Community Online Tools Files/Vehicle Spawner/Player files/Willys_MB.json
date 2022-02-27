@@ -1,0 +1,17 @@
+{
+    "VehicleName": "Willys_MB",
+    "DisplayName": "Willys_MB",
+    "Parts": [
+        "Willys_MB_doors_hood",
+        "Willys_MB_wheel",
+        "Willys_MB_wheel",
+        "Willys_MB_wheel",
+        "Willys_MB_wheel",
+        "Willys_MB_wheel",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "VehicleName": "UAZ_27722_ambulancia",
+    "DisplayName": "UAZ_27722_ambulancia",
+    "Parts": [
+        "UAZ_27722_mchs_wheel",
+        "UAZ_27722_mchs_wheel",
+        "UAZ_27722_mchs_wheel",
+        "UAZ_27722_mchs_wheel",
+        "UAZ_27722_mchs_wheel",
+        "UAZ_27722_doors_driver_ambulancia",
+        "UAZ_27722_doors_codriver_ambulancia",
+        "UAZ_27722_doors_cargo1_ambulancia",
+        "UAZ_27722_doors_trunk1_ambulancia",
+        "UAZ_27722_doors_trunk_ambulancia",
+        "UAZ_27722_doors_hood_ambulancia",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

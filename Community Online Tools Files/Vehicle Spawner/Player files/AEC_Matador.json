@@ -1,0 +1,19 @@
+{
+    "VehicleName": "AEC_Matador",
+    "DisplayName": "AEC_Matador",
+    "Parts": [
+        "AEC_Matador_wheel",
+        "AEC_Matador_wheel",
+        "AEC_Matador_wheel",
+        "AEC_Matador_wheel",
+        "AEC_Matador_wheel",
+        "AEC_Matador_doors_driver",
+        "AEC_Matador_doors_codriver",
+        "AEC_Matador_doors_trunk",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

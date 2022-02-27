@@ -1,0 +1,20 @@
+{
+    "VehicleName": "Niva2329_camo",
+    "DisplayName": "Niva2329_camo",
+    "Parts": [
+        "Niva2329_wheel",
+		"Niva2329_wheel",
+		"Niva2329_wheel",
+		"Niva2329_wheel",
+		"Niva2329_wheel",
+        "Niva2329_doors_driver_camo",
+        "Niva2329_doors_codriver_camo",
+        "Niva2329_doors_trunk_camo",
+		"Niva2329_doors_hood_camo",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "VehicleName": "ij_2715_RF_blue",
+    "DisplayName": "ij_2715_RF_blue",
+    "Parts": [
+        "ij_2715_RF_wheel",
+        "ij_2715_RF_wheel",
+        "ij_2715_RF_wheel",
+        "ij_2715_RF_wheel",
+        "ij_2715_RF_wheel",
+        "ij_2715_RF_doors_driver_blue",
+        "ij_2715_RF_doors_codriver_blue",
+        "ij_2715_RF_doors_cargo1_blue",
+        "ij_2715_RF_doors_cargo2_blue",
+        "ij_2715_RF_doors_hood_blue",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

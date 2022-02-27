@@ -1,0 +1,23 @@
+{
+    "VehicleName": "URAL_375_1964_zima",
+    "DisplayName": "URAL_375_1964_zima",
+    "Parts": [
+        "URAL_375_1964_Wheel",
+        "URAL_375_1964_Wheel",
+        "URAL_375_1964_Wheel",
+        "URAL_375_1964_Wheel",
+        "URAL_375_1964_Wheel",
+        "URAL_375_1964_Wheel",
+        "URAL_375_1964_Wheel",
+        "URAL_375_1964_Wheel",
+        "URAL_375_1964_doors_driver_zima",
+        "URAL_375_1964_doors_codriver_zima",
+        "URAL_375_1964_doors_hood_zima",
+		"URAL_375_1964_tent",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

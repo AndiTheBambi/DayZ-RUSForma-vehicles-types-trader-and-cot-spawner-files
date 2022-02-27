@@ -1,0 +1,18 @@
+{
+    "VehicleName": "GAZ_66_kuzov_camo",
+    "DisplayName": "GAZ_66_kuzov_camo",
+    "Parts": [
+        "GAZ_66_doors_driver_camo",
+        "GAZ_66_doors_codriver_camo",
+        "GAZ_66_Wheel",
+        "GAZ_66_Wheel",
+        "GAZ_66_Wheel",
+        "GAZ_66_Wheel",
+        "GAZ_66_Wheel",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

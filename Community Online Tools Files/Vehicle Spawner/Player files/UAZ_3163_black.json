@@ -1,0 +1,22 @@
+{
+    "VehicleName": "UAZ_3163_black",
+    "DisplayName": "UAZ_3163_black",
+    "Parts": [
+        "UAZ_3163_wheel",
+		"UAZ_3163_wheel",
+		"UAZ_3163_wheel",
+		"UAZ_3163_wheel",
+		"UAZ_3163_wheel",
+		"UAZ_3163_doors_driver_black",
+		"UAZ_3163_doors_codriver_black",
+		"UAZ_3163_doors_cargo1_black",
+        "UAZ_3163_doors_cargo2_black",
+        "UAZ_3163_doors_hood_black",
+        "UAZ_3163_doors_trunk_black",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "VehicleName": "GAZ_M20_black",
+    "DisplayName": "GAZ_M20_black",
+    "Parts": [
+        "GAZ_M20_wheel",
+		"GAZ_M20_wheel",
+		"GAZ_M20_wheel",
+		"GAZ_M20_wheel",
+		"GAZ_M20_wheel",
+        "GAZ_M20_doors_driver_black",
+        "GAZ_M20_doors_codriver_black",
+        "GAZ_M20_doors_cargo1_black",
+		"GAZ_M20_doors_cargo2_black",
+		"GAZ_M20_doors_hood_black",
+		"GAZ_M20_doors_trunk_black",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

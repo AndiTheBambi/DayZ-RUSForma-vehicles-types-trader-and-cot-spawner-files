@@ -1,0 +1,26 @@
+{
+    "VehicleName": "BTR_80_camo",
+    "DisplayName": "BTR_80_camo",
+    "Parts": [
+        "BTR_80_Wheel",
+        "BTR_80_Wheel",
+        "BTR_80_Wheel",
+        "BTR_80_Wheel",
+        "BTR_80_Wheel",
+        "BTR_80_Wheel",
+        "BTR_80_Wheel",
+        "BTR_80_Wheel",
+        "BTR_80_Wheel",
+        "BTR_80_doors_driver_camo",
+        "BTR_80_doors_codriver_camo",
+        "BTR_80_doors_cargo1_camo",
+        "BTR_80_doors_cargo2_camo",
+        "BTR_80_doors_cargo3_camo",
+        "BTR_80_doors_cargo4_camo",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

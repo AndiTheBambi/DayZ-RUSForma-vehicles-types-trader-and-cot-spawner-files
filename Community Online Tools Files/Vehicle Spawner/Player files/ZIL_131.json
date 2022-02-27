@@ -1,0 +1,21 @@
+{
+    "VehicleName": "ZIL_131",
+    "DisplayName": "ZIL_131",
+    "Parts": [
+        "ZIL_131_doors_driver",
+        "ZIL_131_doors_codriver",
+        "ZIL_131_doors_trunk",
+        "ZIL_131_Wheel",
+        "ZIL_131_Wheel",
+        "ZIL_131_Wheel",
+        "ZIL_131_Wheel",
+        "ZIL_131_Wheel",
+        "ZIL_131_Wheel",
+        "ZIL_131_Wheel",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

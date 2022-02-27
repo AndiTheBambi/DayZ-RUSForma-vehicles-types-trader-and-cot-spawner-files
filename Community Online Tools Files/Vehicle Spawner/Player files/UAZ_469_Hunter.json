@@ -1,0 +1,20 @@
+{
+    "VehicleName": "UAZ_469_Hunter",
+    "DisplayName": "UAZ_469_Hunter",
+    "Parts": [
+        "UAZ_469_Hunter_doors_driver",
+        "UAZ_469_Hunter_doors_codriver",
+        "UAZ_469_Hunter_doors_cargo1",
+        "UAZ_469_Hunter_doors_cargo2",
+        "UAZ_469_Hunter_wheel",
+        "UAZ_469_Hunter_wheel",
+        "UAZ_469_Hunter_wheel",
+        "UAZ_469_Hunter_wheel",
+        "UAZ_469_Hunter_wheel",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

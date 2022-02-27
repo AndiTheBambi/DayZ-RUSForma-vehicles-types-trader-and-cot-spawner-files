@@ -1,0 +1,22 @@
+{
+    "VehicleName": "GAZ_3110_volga",
+    "DisplayName": "GAZ_3110_volga",
+    "Parts": [
+        "GAZ_3110_volga_taxi_doors_driver",
+        "GAZ_3110_volga_taxi_doors_codriver",
+        "GAZ_3110_volga_taxi_doors_cargo1",
+        "GAZ_3110_volga_taxi_doors_cargo2",
+        "GAZ_3110_volga_taxi_doors_hood",
+        "GAZ_3110_volga_taxi_doors_trunk",
+        "GAZ_3110_volga_wheel",
+        "GAZ_3110_volga_wheel",
+        "GAZ_3110_volga_wheel",
+        "GAZ_3110_volga_wheel",
+        "GAZ_3110_volga_wheel",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

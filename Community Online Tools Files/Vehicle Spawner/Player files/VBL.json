@@ -1,0 +1,20 @@
+{
+    "VehicleName": "VBL",
+    "DisplayName": "VBL",
+    "Parts": [
+        "VBL_wheel",
+        "VBL_wheel",
+        "VBL_wheel",
+        "VBL_wheel",
+        "VBL_wheel",
+        "VBL_doors_driver",
+        "VBL_doors_codriver",
+        "VBL_doors_trunk",
+        "VBL_doors_cargo1",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

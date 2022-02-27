@@ -1,0 +1,22 @@
+{
+    "VehicleName": "kraz_255B_kung",
+    "DisplayName": "kraz_255B_kung",
+    "Parts": [
+        "kraz_255B_Wheel",
+        "kraz_255B_Wheel",
+        "kraz_255B_Wheel",
+        "kraz_255B_Wheel",
+        "kraz_255B_Wheel",
+        "kraz_255B_Wheel",
+        "kraz_255B_Wheel",
+        "kraz_255B_doors_driver",
+        "kraz_255B_doors_codriver",
+        "kraz_255B_doors_hood",
+        "kraz_255B_doors_trunk_kung",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

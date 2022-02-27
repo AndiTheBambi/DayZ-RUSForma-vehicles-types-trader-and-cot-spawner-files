@@ -1,0 +1,22 @@
+{
+    "VehicleName": "IJ_2125_Kombi_green",
+    "DisplayName": "IJ_2125_Kombi_green",
+    "Parts": [
+        "IJ_2125_Kombi_wheel",
+		"IJ_2125_Kombi_wheel",
+		"IJ_2125_Kombi_wheel",
+		"IJ_2125_Kombi_wheel",
+		"IJ_2125_Kombi_wheel",
+        "IJ_2125_Kombi_doors_driver_green",
+        "IJ_2125_Kombi_doors_codriver_green",
+        "IJ_2125_Kombi_doors_cargo1_green",
+		"IJ_2125_Kombi_doors_cargo2_green",
+		"IJ_2125_Kombi_doors_hood_green",
+		"IJ_2125_Kombi_doors_trunk_green",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}
