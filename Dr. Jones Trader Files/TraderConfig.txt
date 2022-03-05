@@ -1,0 +1,112 @@
+		////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+        //                                                                                                                //
+        //      If you have any Problems with Configurations here feel free to contact me on Discord: Dr_J0nes#3734       //
+        //                                                                                                                //
+        //      Only Single line Comments work. Don't use Multi line Comments!                                            //
+        //      /* THIS COMMENT WILL CRASH THE SERVER! */                                                                 //
+        //      // THIS COMMENT WORKS!                                                                                    //
+        //																												  //
+        ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+	// When changing Prices here keep in Mind that Players
+	// can just unpack the Ammoboxes and sell the Ammo separately!
+	// Originally the Ammoboxes buying Price is 20% less than
+	// buying single Ammo. The Selling Price is the same as
+	// selling the Ammo separately.
+
+	// <Trader Name>  (first Trader has ID = 0, second Trader has ID = 1, and so on..)	
+	// <Category Name>
+	// Item Classname, Quantity, Buyvalue, Sellvalue
+	// Quantity * means max value; 
+	// Quantity V means Vehicle; 
+	// Quantity VNK means Vehicle without Key;
+	// Quantity M means Magazine; 
+	// Quantity W means Weapon; 
+	// Quantity S means Steack Meat; 
+	// Quantity K means Key Duplication
+	// Buyvalue -1 means it can not be bought
+	// Sellvalue -1 means it can not be selled
+
+// Currency Name (Only used for the Text in the upper right Corner of the Trader Menu)
+// Currency Classname, Currency Money Value
+<CurrencyName> #tm_ruble							
+	<Currency> MoneyRuble1, 	1					
+	<Currency> MoneyRuble5, 	5
+	<Currency> MoneyRuble10, 	10
+	<Currency> MoneyRuble25, 	25
+	<Currency> MoneyRuble50, 	50
+	<Currency> MoneyRuble100, 	100
+
+
+<Trader>Vehicles Trader 
+
+	<Category>RUSForma cars
+		Niva2329,                                                              VNK,                 100000,              70000
+		Niva2329_camo,                                                         VNK,                 100000,              70000
+		UAZ_3163,                                                              VNK,                 100000,              70000
+		UAZ_3163_black,                                                        VNK,                 100000,              70000
+		UAZ_3163_blue,                                                         VNK,                 100000,              70000
+		UAZ_3163_green,                                                        VNK,                 100000,              70000
+		UAZ_3163_white,                                                        VNK,                 100000,              70000
+		ZAZ_968M,                                                              VNK,                 40000,               25000
+		ZAZ_968M_red,                                                          VNK,                 40000,               25000
+		UAZ_469_milicia,                                                       VNK,                 110000,              75000
+		UAZ_469_Hunter,                                                        VNK,                 150000,              100000
+		UAZ_27722_ambulancia,                                                  VNK,                 110000,              75000
+		IJ_2125_Kombi,                                                         VNK,                 60000,               40000
+		IJ_2125_Kombi_beg,                                                     VNK,                 60000,               40000
+		IJ_2125_Kombi_green,                                                   VNK,                 60000,               40000
+		IJ_2125_Kombi_orange,                                                  VNK,                 60000,               40000
+		IJ_2125_Kombi_red,                                                     VNK,                 60000,               40000
+		ij_2715_RF,                                                            VNK,                 100000,              40000
+		ij_2715_RF_blue,                                                       VNK,                 100000,              40000
+		ij_2715_RF_green,                                                      VNK,                 100000,              40000
+		ij_2715_RF_red,                                                        VNK,                 100000,              40000
+		GAZ_M20,                                                               VNK,                 75000,               50000
+		GAZ_M20_white,                                                         VNK,                 75000,               50000
+		GAZ_M20_green,                                                         VNK,                 75000,               50000
+		GAZ_M20_black,                                                         VNK,                 75000,               50000
+		GAZ_M20_red,                                                           VNK,                 75000,               50000
+		GAZ_M20_blue,                                                          VNK,                 75000,               50000
+		GAZ_3110_volga,                                                        VNK,                 75000,               50000
+		GAZ_3110_volga_taxi,                                                   VNK,                 75000,               50000
+		GAZ_3110_volga_white,                                                  VNK,                 75000,               50000
+		GAZ_3110_volga_black,                                                  VNK,                 75000,               50000
+		Willys_MB,                                                             VNK,                 85000,               65000
+		UAZ_3962,                                                              VNK,                 120000,              90000
+		UAZ_3962_green,                                                        VNK,                 150000,              100000
+		LUAZ_969,                                                              VNK,                 100000,              70000
+		LUAZ_969_green,                                                        VNK,                 100000,              70000
+		LUAZ_969_blue,                                                         VNK,                 100000,              70000
+		LUAZ_969_orang,                                                        VNK,                 100000,              70000
+		VBL,                                                                   VNK,                 170000,              130000
+
+	<Category>RUSForma Trucks
+		AEC_Matador,                                                           VNK,                 180000,              140000
+		GAZ_66,                                                                VNK,                 200000,              150000
+		GAZ_66_camo,                                                           VNK,                 200000,              150000
+		GAZ_66_zima_camo,                                                      VNK,                 200000,              150000
+		GAZ_66_kuzov,                                                          VNK,                 220000,              160000
+		GAZ_66_kuzov_camo,                                                     VNK,                 220000,              160000
+		GAZ_66_kuzov_zima_camo,                                                VNK,                 220000,              160000
+		URAL_375_1964,                                                         VNK,                 300000,              200000
+		URAL_375_1964_zima,                                                    VNK,                 300000,              200000
+		ZIL_131,                                                               VNK,                 250000,              190000
+		ZIL_131_tent,                                                          VNK,                 250000,              190000
+		BTR_80,                                                                VNK,                 350000,              300000
+		BTR_80_camo,                                                           VNK,                 350000,              300000
+		BTR_80_camo2,                                                          VNK,                 350000,              300000
+		gaz_51,                                                                VNK,                 180000,              140000
+		GAZ_33081,                                                             VNK,                 235000,              170000
+		ZiS5_Benzovoz,                                                         VNK,                 150000,              130000
+		ZiS5_kung,                            		                           VNK,                 175000,              135000
+		PAZ_672,                                                               VNK,                 300000,              200000
+		PAZ_672_orange,                                                        VNK,                 300000,              200000
+		kraz_255B,                                                             VNK,                 400000,              300000
+		kraz_255B_kung,                                                        VNK,                 350000,              300000
+		KAVZ685_RF,                                                            VNK,                 200000,              150000
+		KAVZ685_RF_beige,                                                      VNK,                 200000,              150000
+		KAVZ685_RF_red,                                                        VNK,                 200000,              150000
+		KAVZ685_RF_green,                                                      VNK,                 200000,              150000
+	
+<FileEnd>
