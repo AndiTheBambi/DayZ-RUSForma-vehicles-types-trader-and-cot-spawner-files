@@ -108,5 +108,6 @@
 		KAVZ685_RF_beige,                                                      VNK,                 200000,              150000
 		KAVZ685_RF_red,                                                        VNK,                 200000,              150000
 		KAVZ685_RF_green,                                                      VNK,                 200000,              150000
+		LIAZ_677RF,															   VNK,					350000,				 250000
 	
 <FileEnd>
