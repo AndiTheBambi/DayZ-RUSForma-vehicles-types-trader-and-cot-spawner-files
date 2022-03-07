@@ -1,0 +1,20 @@
+{
+    "VehicleName": "LIAZ_677RF",
+    "DisplayName": "LIAZ_677RF",
+    "Parts": [
+        "LIAZ_677RF_doors_driver",
+        "LIAZ_677RF_doors_cargo1",
+        "LIAZ_677RF_doors_hood",
+        "LIAZ_677RF_doors_trunk",
+        "LIAZ_677RF_wheel",
+        "LIAZ_677RF_wheel",
+        "LIAZ_677RF_wheel",
+		"LIAZ_677RF_WheelDouble",
+        "LIAZ_677RF_WheelDouble",
+        "SparkPlug",
+        "TruckBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}
