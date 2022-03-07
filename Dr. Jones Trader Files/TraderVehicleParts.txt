@@ -1233,6 +1233,21 @@
     KAVZ685_RF_WheelDouble
     KAVZ685_RF_WheelDouble
 
+<VehicleParts> LIAZ_677RF
+	SparkPlug
+	TruckBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+    LIAZ_677RF_doors_driver
+    LIAZ_677RF_doors_cargo1
+    LIAZ_677RF_doors_hood
+    LIAZ_677RF_doors_trunk
+    LIAZ_677RF_wheel
+    LIAZ_677RF_wheel
+    LIAZ_677RF_wheel
+    LIAZ_677RF_WheelDouble
+    LIAZ_677RF_WheelDouble
 
 //<OpenFile> FileName.txt			// Links to another File; Must be right above <FileEnd>!
 <FileEnd>							// This has to be on the End of this File and is very importand!
