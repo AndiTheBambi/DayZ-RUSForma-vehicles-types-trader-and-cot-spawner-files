@@ -4853,7 +4853,7 @@
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>	
-	<type name="vaz_2106_RF_driver">
+	<type name="vaz_2106_RF_doors_driver">
         <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -4865,7 +4865,7 @@
         <category name="vehiclesparts"/>
         <usage name="Industrial"/>
     </type>
-	<type name="vaz_2106_RF_codriver">
+	<type name="vaz_2106_RF_doors_codriver">
         <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -4877,7 +4877,7 @@
         <category name="vehiclesparts"/>
         <usage name="Industrial"/>
     </type>
-	<type name="vaz_2106_RF_cargo1">
+	<type name="vaz_2106_RF_doors_cargo1">
         <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -4889,7 +4889,7 @@
         <category name="vehiclesparts"/>
         <usage name="Industrial"/>
     </type>
-	<type name="vaz_2106_RF_cargo2">
+	<type name="vaz_2106_RF_doors_cargo2">
         <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -4901,7 +4901,7 @@
         <category name="vehiclesparts"/>
         <usage name="Industrial"/>
     </type>
-	<type name="vaz_2106_RF_hood">
+	<type name="vaz_2106_RF_doors_hood">
         <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -4913,7 +4913,7 @@
         <category name="vehiclesparts"/>
         <usage name="Industrial"/>
     </type>
-	<type name="vaz_2106_RF_trunk">
+	<type name="vaz_2106_RF_doors_trunk">
         <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -4925,7 +4925,7 @@
         <category name="vehiclesparts"/>
         <usage name="Industrial"/>
     </type>
-	<type name="vaz_2106_RF_driver_light_green">
+	<type name="vaz_2106_RF_doors_driver_light_green">
         <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -4937,7 +4937,7 @@
         <category name="vehiclesparts"/>
         <usage name="Industrial"/>
     </type>
-	<type name="vaz_2106_RF_codriver_light_green">
+	<type name="vaz_2106_RF_doors_codriver_light_green">
         <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -4949,7 +4949,7 @@
         <category name="vehiclesparts"/>
         <usage name="Industrial"/>
     </type>
-	<type name="vaz_2106_RF_cargo1_light_green">
+	<type name="vaz_2106_RF_doors_cargo1_light_green">
         <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -4961,7 +4961,7 @@
         <category name="vehiclesparts"/>
         <usage name="Industrial"/>
     </type>
-	<type name="vaz_2106_RF_cargo2_light_green">
+	<type name="vaz_2106_RF_doors_cargo2_light_green">
         <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -4973,7 +4973,7 @@
         <category name="vehiclesparts"/>
         <usage name="Industrial"/>
     </type>
-	<type name="vaz_2106_RF_hood_light_green">
+	<type name="vaz_2106_RF_doors_hood_light_green">
         <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -4985,7 +4985,7 @@
         <category name="vehiclesparts"/>
         <usage name="Industrial"/>
     </type>
-	<type name="vaz_2106_RF_trunk_light_green">
+	<type name="vaz_2106_RF_doors_trunk_light_green">
         <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -4997,7 +4997,7 @@
         <category name="vehiclesparts"/>
         <usage name="Industrial"/>
     </type>
-	<type name="vaz_2106_RF_driver_red">
+	<type name="vaz_2106_RF_doors_driver_red">
         <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -5009,7 +5009,7 @@
         <category name="vehiclesparts"/>
         <usage name="Industrial"/>
     </type>
-	<type name="vaz_2106_RF_codriver_red">
+	<type name="vaz_2106_RF_doors_codriver_red">
         <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -5021,7 +5021,7 @@
         <category name="vehiclesparts"/>
         <usage name="Industrial"/>
     </type>
-	<type name="vaz_2106_RF_cargo1_red">
+	<type name="vaz_2106_RF_doors_cargo1_red">
         <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -5033,7 +5033,7 @@
         <category name="vehiclesparts"/>
         <usage name="Industrial"/>
     </type>
-	<type name="vaz_2106_RF_cargo2_red">
+	<type name="vaz_2106_RF_doors_cargo2_red">
         <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -5045,7 +5045,7 @@
         <category name="vehiclesparts"/>
         <usage name="Industrial"/>
     </type>
-	<type name="vaz_2106_RF_hood_red">
+	<type name="vaz_2106_RF_doors_hood_red">
         <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -5057,7 +5057,7 @@
         <category name="vehiclesparts"/>
         <usage name="Industrial"/>
     </type>
-	<type name="vaz_2106_RF_trunk_red">
+	<type name="vaz_2106_RF_doors_trunk_red">
         <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -5069,7 +5069,7 @@
         <category name="vehiclesparts"/>
         <usage name="Industrial"/>
     </type>
-	<type name="vaz_2106_RF_driver_white">
+	<type name="vaz_2106_RF_doors_driver_white">
         <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -5081,7 +5081,7 @@
         <category name="vehiclesparts"/>
         <usage name="Industrial"/>
     </type>
-	<type name="vaz_2106_RF_codriver_white">
+	<type name="vaz_2106_RF_doors_codriver_white">
         <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -5093,7 +5093,7 @@
         <category name="vehiclesparts"/>
         <usage name="Industrial"/>
     </type>
-	<type name="vaz_2106_RF_cargo1_white">
+	<type name="vaz_2106_RF_doors_cargo1_white">
         <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -5105,7 +5105,7 @@
         <category name="vehiclesparts"/>
         <usage name="Industrial"/>
     </type>
-	<type name="vaz_2106_RF_cargo2_white">
+	<type name="vaz_2106_RF_doors_cargo2_white">
         <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -5117,7 +5117,7 @@
         <category name="vehiclesparts"/>
         <usage name="Industrial"/>
     </type>
-	<type name="vaz_2106_RF_hood_white">
+	<type name="vaz_2106_RF_doors_hood_white">
         <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -5129,7 +5129,7 @@
         <category name="vehiclesparts"/>
         <usage name="Industrial"/>
     </type>
-	<type name="vaz_2106_RF_trunk_white">
+	<type name="vaz_2106_RF_doors_trunk_white">
         <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -5141,7 +5141,7 @@
         <category name="vehiclesparts"/>
         <usage name="Industrial"/>
     </type>
-	<type name="vaz_2106_RF_driver_wine">
+	<type name="vaz_2106_RF_doors_driver_wine">
         <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -5153,7 +5153,7 @@
         <category name="vehiclesparts"/>
         <usage name="Industrial"/>
     </type>
-	<type name="vaz_2106_RF_codriver_wine">
+	<type name="vaz_2106_RF_doors_codriver_wine">
         <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -5165,7 +5165,7 @@
         <category name="vehiclesparts"/>
         <usage name="Industrial"/>
     </type>
-	<type name="vaz_2106_RF_cargo1_wine">
+	<type name="vaz_2106_RF_doors_cargo1_wine">
         <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -5177,7 +5177,7 @@
         <category name="vehiclesparts"/>
         <usage name="Industrial"/>
     </type>
-	<type name="vaz_2106_RF_cargo2_wine">
+	<type name="vaz_2106_RF_doors_cargo2_wine">
         <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -5189,7 +5189,7 @@
         <category name="vehiclesparts"/>
         <usage name="Industrial"/>
     </type>
-	<type name="vaz_2106_RF_hood_wine">
+	<type name="vaz_2106_RF_doors_hood_wine">
         <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -5201,7 +5201,7 @@
         <category name="vehiclesparts"/>
         <usage name="Industrial"/>
     </type>
-	<type name="vaz_2106_RF_trunk_wine">
+	<type name="vaz_2106_RF_doors_trunk_wine">
         <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -5213,7 +5213,7 @@
         <category name="vehiclesparts"/>
         <usage name="Industrial"/>
     </type>
-	<type name="vaz_2106_RF_driver_yellow">
+	<type name="vaz_2106_RF_doors_driver_yellow">
         <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -5225,7 +5225,7 @@
         <category name="vehiclesparts"/>
         <usage name="Industrial"/>
     </type>
-	<type name="vaz_2106_RF_codriver_yellow">
+	<type name="vaz_2106_RF_doors_codriver_yellow">
         <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -5237,7 +5237,7 @@
         <category name="vehiclesparts"/>
         <usage name="Industrial"/>
     </type>
-	<type name="vaz_2106_RF_cargo1_yellow">
+	<type name="vaz_2106_RF_doors_cargo1_yellow">
         <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -5249,7 +5249,7 @@
         <category name="vehiclesparts"/>
         <usage name="Industrial"/>
     </type>
-	<type name="vaz_2106_RF_cargo2_yellow">
+	<type name="vaz_2106_RF_doors_cargo2_yellow">
         <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -5261,7 +5261,7 @@
         <category name="vehiclesparts"/>
         <usage name="Industrial"/>
     </type>
-	<type name="vaz_2106_RF_hood_yellow">
+	<type name="vaz_2106_RF_doors_hood_yellow">
         <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
@@ -5273,7 +5273,7 @@
         <category name="vehiclesparts"/>
         <usage name="Industrial"/>
     </type>
-	<type name="vaz_2106_RF_trunk_yellow">
+	<type name="vaz_2106_RF_doors_trunk_yellow">
         <nominal>0</nominal>
         <lifetime>2700</lifetime>
         <restock>0</restock>
