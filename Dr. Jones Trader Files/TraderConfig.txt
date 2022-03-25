@@ -80,6 +80,12 @@
 		LUAZ_969_blue,                                                         VNK,                 100000,              70000
 		LUAZ_969_orang,                                                        VNK,                 100000,              70000
 		VBL,                                                                   VNK,                 170000,              130000
+		vaz_2106_RF,														   VNK,					1,					 1
+		vaz_2106_RF_light_green,														   VNK,					1,					 1
+		vaz_2106_RF_red,														   VNK,					1,					 1
+		vaz_2106_RF_white,														   VNK,					1,					 1
+		vaz_2106_RF_wine,														   VNK,					1,					 1
+		vaz_2106_RF_yellow,														   VNK,					1,					 1
 
 	<Category>RUSForma Trucks
 		AEC_Matador,                                                           VNK,                 180000,              140000
