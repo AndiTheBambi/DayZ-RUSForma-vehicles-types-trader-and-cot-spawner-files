@@ -1,0 +1,22 @@
+{
+    "VehicleName": "vaz_2106_RF_light_green",
+    "DisplayName": "vaz_2106_RF_light_green",
+    "Parts": [
+        "vaz_2106_RF_driver_light_green",
+        "vaz_2106_RF_codriver_light_green",
+        "vaz_2106_RF_cargo1_light_green",
+        "vaz_2106_RF_cargo2_light_green",
+        "vaz_2106_RF_hood_light_green",
+        "vaz_2106_RF_trunk_light_green",
+        "vaz_2106_RF_wheel",
+        "vaz_2106_RF_wheel",
+        "vaz_2106_RF_wheel",
+        "vaz_2106_RF_wheel",
+        "vaz_2106_RF_wheel",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

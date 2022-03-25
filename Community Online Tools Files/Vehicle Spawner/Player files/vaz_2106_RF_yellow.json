@@ -1,0 +1,22 @@
+{
+    "VehicleName": "vaz_2106_RF_yellow",
+    "DisplayName": "vaz_2106_RF_yellow",
+    "Parts": [
+        "vaz_2106_RF_driver_yellow",
+        "vaz_2106_RF_codriver_yellow",
+        "vaz_2106_RF_cargo1_yellow",
+        "vaz_2106_RF_cargo2_yellow",
+        "vaz_2106_RF_hood_yellow",
+        "vaz_2106_RF_trunk_yellow",
+        "vaz_2106_RF_wheel",
+        "vaz_2106_RF_wheel",
+        "vaz_2106_RF_wheel",
+        "vaz_2106_RF_wheel",
+        "vaz_2106_RF_wheel",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}
