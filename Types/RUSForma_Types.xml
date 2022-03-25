@@ -4778,4 +4778,511 @@
         <category name="vehiclesparts"/>
         <usage name="Industrial"/>
     </type>
+	<!-- VAZ 2106 RF -->
+	<type name="vaz_2106_RF">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="vaz_2106_RF_light_green">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="vaz_2106_RF_red">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="vaz_2106_RF_white">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="vaz_2106_RF_wine">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="vaz_2106_RF_yellow">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>1800</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<!-- VAZ 2106 RF Parts -->
+	<type name="vaz_2106_RF_wheel">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+    </type>	
+	<type name="vaz_2106_RF_driver">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <usage name="Industrial"/>
+    </type>
+	<type name="vaz_2106_RF_codriver">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <usage name="Industrial"/>
+    </type>
+	<type name="vaz_2106_RF_cargo1">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <usage name="Industrial"/>
+    </type>
+	<type name="vaz_2106_RF_cargo2">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <usage name="Industrial"/>
+    </type>
+	<type name="vaz_2106_RF_hood">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <usage name="Industrial"/>
+    </type>
+	<type name="vaz_2106_RF_trunk">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <usage name="Industrial"/>
+    </type>
+	<type name="vaz_2106_RF_driver_light_green">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <usage name="Industrial"/>
+    </type>
+	<type name="vaz_2106_RF_codriver_light_green">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <usage name="Industrial"/>
+    </type>
+	<type name="vaz_2106_RF_cargo1_light_green">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <usage name="Industrial"/>
+    </type>
+	<type name="vaz_2106_RF_cargo2_light_green">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <usage name="Industrial"/>
+    </type>
+	<type name="vaz_2106_RF_hood_light_green">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <usage name="Industrial"/>
+    </type>
+	<type name="vaz_2106_RF_trunk_light_green">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <usage name="Industrial"/>
+    </type>
+	<type name="vaz_2106_RF_driver_red">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <usage name="Industrial"/>
+    </type>
+	<type name="vaz_2106_RF_codriver_red">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <usage name="Industrial"/>
+    </type>
+	<type name="vaz_2106_RF_cargo1_red">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <usage name="Industrial"/>
+    </type>
+	<type name="vaz_2106_RF_cargo2_red">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <usage name="Industrial"/>
+    </type>
+	<type name="vaz_2106_RF_hood_red">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <usage name="Industrial"/>
+    </type>
+	<type name="vaz_2106_RF_trunk_red">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <usage name="Industrial"/>
+    </type>
+	<type name="vaz_2106_RF_driver_white">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <usage name="Industrial"/>
+    </type>
+	<type name="vaz_2106_RF_codriver_white">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <usage name="Industrial"/>
+    </type>
+	<type name="vaz_2106_RF_cargo1_white">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <usage name="Industrial"/>
+    </type>
+	<type name="vaz_2106_RF_cargo2_white">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <usage name="Industrial"/>
+    </type>
+	<type name="vaz_2106_RF_hood_white">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <usage name="Industrial"/>
+    </type>
+	<type name="vaz_2106_RF_trunk_white">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <usage name="Industrial"/>
+    </type>
+	<type name="vaz_2106_RF_driver_wine">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <usage name="Industrial"/>
+    </type>
+	<type name="vaz_2106_RF_codriver_wine">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <usage name="Industrial"/>
+    </type>
+	<type name="vaz_2106_RF_cargo1_wine">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <usage name="Industrial"/>
+    </type>
+	<type name="vaz_2106_RF_cargo2_wine">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <usage name="Industrial"/>
+    </type>
+	<type name="vaz_2106_RF_hood_wine">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <usage name="Industrial"/>
+    </type>
+	<type name="vaz_2106_RF_trunk_wine">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <usage name="Industrial"/>
+    </type>
+	<type name="vaz_2106_RF_driver_yellow">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <usage name="Industrial"/>
+    </type>
+	<type name="vaz_2106_RF_codriver_yellow">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <usage name="Industrial"/>
+    </type>
+	<type name="vaz_2106_RF_cargo1_yellow">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <usage name="Industrial"/>
+    </type>
+	<type name="vaz_2106_RF_cargo2_yellow">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <usage name="Industrial"/>
+    </type>
+	<type name="vaz_2106_RF_hood_yellow">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <usage name="Industrial"/>
+    </type>
+	<type name="vaz_2106_RF_trunk_yellow">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="vehiclesparts"/>
+        <usage name="Industrial"/>
+    </type>
 </types>
