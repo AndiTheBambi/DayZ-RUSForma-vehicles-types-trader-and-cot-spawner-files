@@ -1248,6 +1248,114 @@
     LIAZ_677RF_wheel
     LIAZ_677RF_WheelDouble
     LIAZ_677RF_WheelDouble
+	
+<VehicleParts> vaz_2106_RF
+	SparkPlug
+	TruckBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	vaz_2106_RF_driver
+    vaz_2106_RF_codriver
+    vaz_2106_RF_cargo1
+    vaz_2106_RF_cargo2
+    vaz_2106_RF_hood
+    vaz_2106_RF_trunk
+    vaz_2106_RF_wheel
+    vaz_2106_RF_wheel
+    vaz_2106_RF_wheel
+    vaz_2106_RF_wheel
+    vaz_2106_RF_wheel
+	
+<VehicleParts> vaz_2106_RF_light_green
+	SparkPlug
+	TruckBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	vaz_2106_RF_driver_light_green
+    vaz_2106_RF_codriver_light_green
+    vaz_2106_RF_cargo1_light_green
+    vaz_2106_RF_cargo2_light_green
+    vaz_2106_RF_hood_light_green
+    vaz_2106_RF_trunk_light_green
+    vaz_2106_RF_wheel
+    vaz_2106_RF_wheel
+    vaz_2106_RF_wheel
+    vaz_2106_RF_wheel
+    vaz_2106_RF_wheel
+	
+<VehicleParts> vaz_2106_RF_red
+	SparkPlug
+	TruckBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	vaz_2106_RF_driver_red
+    vaz_2106_RF_codriver_red
+    vaz_2106_RF_cargo1_red
+    vaz_2106_RF_cargo2_red
+    vaz_2106_RF_hood_red
+    vaz_2106_RF_trunk_red
+    vaz_2106_RF_wheel
+    vaz_2106_RF_wheel
+    vaz_2106_RF_wheel
+    vaz_2106_RF_wheel
+    vaz_2106_RF_wheel
+	
+<VehicleParts> vaz_2106_RF_white
+	SparkPlug
+	TruckBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	vaz_2106_RF_driver_white
+    vaz_2106_RF_codriver_white
+    vaz_2106_RF_cargo1_white
+    vaz_2106_RF_cargo2_white
+    vaz_2106_RF_hood_white
+    vaz_2106_RF_trunk_white
+    vaz_2106_RF_wheel
+    vaz_2106_RF_wheel
+    vaz_2106_RF_wheel
+    vaz_2106_RF_wheel
+    vaz_2106_RF_wheel
+	
+<VehicleParts> vaz_2106_RF_wine
+	SparkPlug
+	TruckBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	vaz_2106_RF_driver_wine
+    vaz_2106_RF_codriver_wine
+    vaz_2106_RF_cargo1_wine
+    vaz_2106_RF_cargo2_wine
+    vaz_2106_RF_hood_wine
+    vaz_2106_RF_trunk_wine
+    vaz_2106_RF_wheel
+    vaz_2106_RF_wheel
+    vaz_2106_RF_wheel
+    vaz_2106_RF_wheel
+    vaz_2106_RF_wheel
+	
+<VehicleParts> vaz_2106_RF_yellow
+	SparkPlug
+	TruckBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	vaz_2106_RF_driver_yellow
+    vaz_2106_RF_codriver_yellow
+    vaz_2106_RF_cargo1_yellow
+    vaz_2106_RF_cargo2_yellow
+    vaz_2106_RF_hood_yellow
+    vaz_2106_RF_trunk_yellow
+    vaz_2106_RF_wheel
+    vaz_2106_RF_wheel
+    vaz_2106_RF_wheel
+    vaz_2106_RF_wheel
+    vaz_2106_RF_wheel
 
 //<OpenFile> FileName.txt			// Links to another File; Must be right above <FileEnd>!
 <FileEnd>							// This has to be on the End of this File and is very importand!
