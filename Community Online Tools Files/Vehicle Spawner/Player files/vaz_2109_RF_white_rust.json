@@ -1,0 +1,22 @@
+{
+    "VehicleName": "vaz_2109_RF_white_rust",
+    "DisplayName": "vaz_2109_RF_white_rust",
+    "Parts": [
+        "vaz_2109_RF_doors_driver_white_rust",
+        "vaz_2109_RF_doors_codriver_white_rust",
+        "vaz_2109_RF_doors_cargo1_white_rust",
+        "vaz_2109_RF_doors_cargo2_white_rust",
+        "vaz_2109_RF_doors_hood_white_rust",
+        "vaz_2109_RF_doors_trunk_white_rust",
+        "vaz_2109_RF_wheel",
+        "vaz_2109_RF_wheel",
+        "vaz_2109_RF_wheel",
+        "vaz_2109_RF_wheel",
+        "vaz_2109_RF_wheel",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

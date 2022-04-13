@@ -1,0 +1,22 @@
+{
+    "VehicleName": "vaz_2109_RF_blue",
+    "DisplayName": "vaz_2109_RF_blue",
+    "Parts": [
+        "vaz_2109_RF_doors_driver_blue",
+        "vaz_2109_RF_doors_codriver_blue",
+        "vaz_2109_RF_doors_cargo1_blue",
+        "vaz_2109_RF_doors_cargo2_blue",
+        "vaz_2109_RF_doors_hood_blue",
+        "vaz_2109_RF_doors_trunk_blue",
+        "vaz_2109_RF_wheel",
+        "vaz_2109_RF_wheel",
+        "vaz_2109_RF_wheel",
+        "vaz_2109_RF_wheel",
+        "vaz_2109_RF_wheel",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}
