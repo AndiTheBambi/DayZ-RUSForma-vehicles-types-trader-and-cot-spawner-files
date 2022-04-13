@@ -1356,6 +1356,150 @@
     vaz_2106_RF_wheel
     vaz_2106_RF_wheel
     vaz_2106_RF_wheel
+	
+<VehicleParts> vaz_2109_RF
+	SparkPlug
+	TruckBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	vaz_2109_RF_doors_driver
+    vaz_2109_RF_doors_codriver
+    vaz_2109_RF_doors_cargo1
+    vaz_2109_RF_doors_cargo2
+    vaz_2109_RF_doors_hood
+    vaz_2109_RF_doors_trunk
+    vaz_2109_RF_wheel
+    vaz_2109_RF_wheel
+    vaz_2109_RF_wheel
+    vaz_2109_RF_wheel
+    vaz_2109_RF_wheel
+	
+<VehicleParts> vaz_2109_RF_rust
+	SparkPlug
+	TruckBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	vaz_2109_RF_doors_driver_rust
+    vaz_2109_RF_doors_codriver_rust
+    vaz_2109_RF_doors_cargo1_rust
+    vaz_2109_RF_doors_cargo2_rust
+    vaz_2109_RF_doors_hood_rust
+    vaz_2109_RF_doors_trunk_rust
+    vaz_2109_RF_wheel
+    vaz_2109_RF_wheel
+    vaz_2109_RF_wheel
+    vaz_2109_RF_wheel
+    vaz_2109_RF_wheel
+	
+<VehicleParts> vaz_2109_RF_green
+	SparkPlug
+	TruckBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	vaz_2109_RF_doors_driver_green
+    vaz_2109_RF_doors_codriver_green
+    vaz_2109_RF_doors_cargo1_green
+    vaz_2109_RF_doors_cargo2_green
+    vaz_2109_RF_doors_hood_green
+    vaz_2109_RF_doors_trunk_green
+    vaz_2109_RF_wheel
+    vaz_2109_RF_wheel
+    vaz_2109_RF_wheel
+    vaz_2109_RF_wheel
+    vaz_2109_RF_wheel
+	
+<VehicleParts> vaz_2109_RF_green_rust
+	SparkPlug
+	TruckBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	vaz_2109_RF_doors_driver_green_rust
+    vaz_2109_RF_doors_codriver_green_rust
+    vaz_2109_RF_doors_cargo1_green_rust
+    vaz_2109_RF_doors_cargo2_green_rust
+    vaz_2109_RF_doors_hood_green_rust
+    vaz_2109_RF_doors_trunk_green_rust
+    vaz_2109_RF_wheel
+    vaz_2109_RF_wheel
+    vaz_2109_RF_wheel
+    vaz_2109_RF_wheel
+    vaz_2109_RF_wheel
+	
+<VehicleParts> vaz_2109_RF_white
+	SparkPlug
+	TruckBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	vaz_2109_RF_doors_driver_white
+    vaz_2109_RF_doors_codriver_white
+    vaz_2109_RF_doors_cargo1_white
+    vaz_2109_RF_doors_cargo2_white
+    vaz_2109_RF_doors_hood_white
+    vaz_2109_RF_doors_trunk_white
+    vaz_2109_RF_wheel
+    vaz_2109_RF_wheel
+    vaz_2109_RF_wheel
+    vaz_2109_RF_wheel
+    vaz_2109_RF_wheel
+	
+<VehicleParts> vaz_2109_RF_white_rust
+	SparkPlug
+	TruckBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	vaz_2109_RF_doors_driver_white_rust
+    vaz_2109_RF_doors_codriver_white_rust
+    vaz_2109_RF_doors_cargo1_white_rust
+    vaz_2109_RF_doors_cargo2_white_rust
+    vaz_2109_RF_doors_hood_white_rust
+    vaz_2109_RF_doors_trunk_white_rust
+    vaz_2109_RF_wheel
+    vaz_2109_RF_wheel
+    vaz_2109_RF_wheel
+    vaz_2109_RF_wheel
+    vaz_2109_RF_wheel
+	
+<VehicleParts> vaz_2109_RF_blue
+	SparkPlug
+	TruckBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	vaz_2109_RF_doors_driver_blue
+    vaz_2109_RF_doors_codriver_blue
+    vaz_2109_RF_doors_cargo1_blue
+    vaz_2109_RF_doors_cargo2_blue
+    vaz_2109_RF_doors_hood_blue
+    vaz_2109_RF_doors_trunk_blue
+    vaz_2109_RF_wheel
+    vaz_2109_RF_wheel
+    vaz_2109_RF_wheel
+    vaz_2109_RF_wheel
+    vaz_2109_RF_wheel
+	
+<VehicleParts> vaz_2109_RF_blue_rust
+	SparkPlug
+	TruckBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	vaz_2109_RF_doors_driver_blue_rust
+    vaz_2109_RF_doors_codriver_blue_rust
+    vaz_2109_RF_doors_cargo1_blue_rust
+    vaz_2109_RF_doors_cargo2_blue_rust
+    vaz_2109_RF_doors_hood_blue_rust
+    vaz_2109_RF_doors_trunk_blue_rust
+    vaz_2109_RF_wheel
+    vaz_2109_RF_wheel
+    vaz_2109_RF_wheel
+    vaz_2109_RF_wheel
+    vaz_2109_RF_wheel
 
 //<OpenFile> FileName.txt			// Links to another File; Must be right above <FileEnd>!
 <FileEnd>							// This has to be on the End of this File and is very importand!
