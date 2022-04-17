@@ -1251,7 +1251,7 @@
 	
 <VehicleParts> vaz_2106_RF
 	SparkPlug
-	TruckBattery
+	CarBattery
 	CarRadiator
 	HeadlightH7
 	HeadlightH7
@@ -1269,7 +1269,7 @@
 	
 <VehicleParts> vaz_2106_RF_light_green
 	SparkPlug
-	TruckBattery
+	CarBattery
 	CarRadiator
 	HeadlightH7
 	HeadlightH7
@@ -1287,7 +1287,7 @@
 	
 <VehicleParts> vaz_2106_RF_red
 	SparkPlug
-	TruckBattery
+	CarBattery
 	CarRadiator
 	HeadlightH7
 	HeadlightH7
@@ -1305,7 +1305,7 @@
 	
 <VehicleParts> vaz_2106_RF_white
 	SparkPlug
-	TruckBattery
+	CarBattery
 	CarRadiator
 	HeadlightH7
 	HeadlightH7
@@ -1323,7 +1323,7 @@
 	
 <VehicleParts> vaz_2106_RF_wine
 	SparkPlug
-	TruckBattery
+	CarBattery
 	CarRadiator
 	HeadlightH7
 	HeadlightH7
@@ -1341,7 +1341,7 @@
 	
 <VehicleParts> vaz_2106_RF_yellow
 	SparkPlug
-	TruckBattery
+	CarBattery
 	CarRadiator
 	HeadlightH7
 	HeadlightH7
@@ -1359,7 +1359,7 @@
 	
 <VehicleParts> vaz_2109_RF
 	SparkPlug
-	TruckBattery
+	CarBattery
 	CarRadiator
 	HeadlightH7
 	HeadlightH7
@@ -1377,7 +1377,7 @@
 	
 <VehicleParts> vaz_2109_RF_rust
 	SparkPlug
-	TruckBattery
+	CarBattery
 	CarRadiator
 	HeadlightH7
 	HeadlightH7
@@ -1395,7 +1395,7 @@
 	
 <VehicleParts> vaz_2109_RF_green
 	SparkPlug
-	TruckBattery
+	CarBattery
 	CarRadiator
 	HeadlightH7
 	HeadlightH7
@@ -1413,7 +1413,7 @@
 	
 <VehicleParts> vaz_2109_RF_green_rust
 	SparkPlug
-	TruckBattery
+	CarBattery
 	CarRadiator
 	HeadlightH7
 	HeadlightH7
@@ -1431,7 +1431,7 @@
 	
 <VehicleParts> vaz_2109_RF_white
 	SparkPlug
-	TruckBattery
+	CarBattery
 	CarRadiator
 	HeadlightH7
 	HeadlightH7
@@ -1449,7 +1449,7 @@
 	
 <VehicleParts> vaz_2109_RF_white_rust
 	SparkPlug
-	TruckBattery
+	CarBattery
 	CarRadiator
 	HeadlightH7
 	HeadlightH7
@@ -1467,7 +1467,7 @@
 	
 <VehicleParts> vaz_2109_RF_blue
 	SparkPlug
-	TruckBattery
+	CarBattery
 	CarRadiator
 	HeadlightH7
 	HeadlightH7
@@ -1485,7 +1485,7 @@
 	
 <VehicleParts> vaz_2109_RF_blue_rust
 	SparkPlug
-	TruckBattery
+	CarBattery
 	CarRadiator
 	HeadlightH7
 	HeadlightH7
