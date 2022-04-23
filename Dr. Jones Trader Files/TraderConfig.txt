@@ -86,6 +86,11 @@
 		vaz_2106_RF_white,													   VNK,					100000,				 70000
 		vaz_2106_RF_wine,													   VNK,					100000,				 70000
 		vaz_2106_RF_yellow,													   VNK,					100000,				 70000
+		UAZ_3172,															   VNK,					130000,				 95000
+		UAZ_3172_green,											 			   VNK,					130000,				 95000
+		UAZ_3172_camo_flora,												   VNK,					130000,				 95000
+		UAZ_3172_camo_Winter,												   VNK,					130000,				 95000
+		UAZ_3172_camo_Desert,												   VNK,					130000,				 95000
 
 	<Category>RUSForma Trucks
 		AEC_Matador,                                                           VNK,                 180000,              140000
