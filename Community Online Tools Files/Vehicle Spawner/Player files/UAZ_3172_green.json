@@ -1,0 +1,22 @@
+{
+    "VehicleName": "UAZ_3172_green",
+    "DisplayName": "UAZ_3172_green",
+    "Parts": [
+        "UAZ_3172_doors_driver_green",
+        "UAZ_3172_doors_codriver_green",
+        "UAZ_3172_doors_cargo1_green",
+        "UAZ_3172_doors_cargo2_green",
+        "UAZ_3172_doors_hood_green",
+        "UAZ_3172_doors_trunk_green",
+        "UAZ_3172_wheel",
+        "UAZ_3172_wheel",
+        "UAZ_3172_wheel",
+        "UAZ_3172_wheel",
+        "UAZ_3172_wheel",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

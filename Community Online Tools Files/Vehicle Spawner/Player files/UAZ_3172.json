@@ -1,0 +1,22 @@
+{
+    "VehicleName": "UAZ_3172",
+    "DisplayName": "UAZ_3172",
+    "Parts": [
+        "UAZ_3172_doors_driver",
+        "UAZ_3172_doors_codriver",
+        "UAZ_3172_doors_cargo1",
+        "UAZ_3172_doors_cargo2",
+        "UAZ_3172_doors_hood",
+        "UAZ_3172_doors_trunk",
+        "UAZ_3172_wheel",
+        "UAZ_3172_wheel",
+        "UAZ_3172_wheel",
+        "UAZ_3172_wheel",
+        "UAZ_3172_wheel",
+        "SparkPlug",
+        "CarBattery",
+        "CarRadiator",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}
