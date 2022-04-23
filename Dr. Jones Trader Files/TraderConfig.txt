@@ -86,6 +86,14 @@
 		vaz_2106_RF_white,													   VNK,					100000,				 70000
 		vaz_2106_RF_wine,													   VNK,					100000,				 70000
 		vaz_2106_RF_yellow,													   VNK,					100000,				 70000
+		vaz_2109_RF,														   VNK,					120000,				 80000
+		vaz_2109_RF_rust,													   VNK,					110000,				 75000
+		vaz_2109_RF_green,													   VNK,					120000,				 80000
+		vaz_2109_RF_green_rust,												   VNK,					110000,				 75000
+		vaz_2109_RF_white,													   VNK,					120000,				 80000
+		vaz_2109_RF_white_rust,												   VNK,					110000,				 75000
+		vaz_2109_RF_blue,													   VNK,					120000,				 80000
+		vaz_2109_RF_blue_rust,												   VNK,					110000,				 75000
 		UAZ_3172,															   VNK,					130000,				 95000
 		UAZ_3172_green,											 			   VNK,					130000,				 95000
 		UAZ_3172_camo_flora,												   VNK,					130000,				 95000
