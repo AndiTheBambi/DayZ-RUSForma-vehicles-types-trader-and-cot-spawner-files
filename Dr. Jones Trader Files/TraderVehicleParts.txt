@@ -1501,5 +1501,95 @@
     vaz_2109_RF_wheel
     vaz_2109_RF_wheel
 
+<VehicleParts> UAZ_3172
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	UAZ_3172_doors_driver
+    UAZ_3172_doors_codriver
+    UAZ_3172_doors_cargo1
+    UAZ_3172_doors_cargo2
+    UAZ_3172_doors_hood
+    UAZ_3172_doors_trunk
+    UAZ_3172_wheel
+    UAZ_3172_wheel
+    UAZ_3172_wheel
+    UAZ_3172_wheel
+    UAZ_3172_wheel
+	
+<VehicleParts> UAZ_3172_green
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	UAZ_3172_doors_driver_green
+    UAZ_3172_doors_codriver_green
+    UAZ_3172_doors_cargo1_green
+    UAZ_3172_doors_cargo2_green
+    UAZ_3172_doors_hood_green
+    UAZ_3172_doors_trunk_green
+    UAZ_3172_wheel
+    UAZ_3172_wheel
+    UAZ_3172_wheel
+    UAZ_3172_wheel
+    UAZ_3172_wheel
+	
+<VehicleParts> UAZ_3172_camo_flora
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	UAZ_3172_doors_driver_camo_flora
+    UAZ_3172_doors_codriver_camo_flora
+    UAZ_3172_doors_cargo1_camo_flora
+    UAZ_3172_doors_cargo2_camo_flora
+    UAZ_3172_doors_hood_camo_flora
+    UAZ_3172_doors_trunk_camo_flora
+    UAZ_3172_wheel
+    UAZ_3172_wheel
+    UAZ_3172_wheel
+    UAZ_3172_wheel
+    UAZ_3172_wheel
+
+<VehicleParts> UAZ_3172_camo_Winter
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	UAZ_3172_doors_driver_camo_Winter
+    UAZ_3172_doors_codriver_camo_Winter
+    UAZ_3172_doors_cargo1_camo_Winter
+    UAZ_3172_doors_cargo2_camo_Winter
+    UAZ_3172_doors_hood_camo_Winter
+    UAZ_3172_doors_trunk_camo_Winter
+    UAZ_3172_wheel
+    UAZ_3172_wheel
+    UAZ_3172_wheel
+    UAZ_3172_wheel
+    UAZ_3172_wheel
+	
+<VehicleParts> UAZ_3172_camo_Desert
+	SparkPlug
+	CarBattery
+	CarRadiator
+	HeadlightH7
+	HeadlightH7
+	UAZ_3172_doors_driver_camo_Desert
+    UAZ_3172_doors_codriver_camo_Desert
+    UAZ_3172_doors_cargo1_camo_Desert
+    UAZ_3172_doors_cargo2_camo_Desert
+    UAZ_3172_doors_hood_camo_Desert
+    UAZ_3172_doors_trunk_camo_Desert
+    UAZ_3172_wheel
+    UAZ_3172_wheel
+    UAZ_3172_wheel
+    UAZ_3172_wheel
+    UAZ_3172_wheel
+	
 //<OpenFile> FileName.txt			// Links to another File; Must be right above <FileEnd>!
 <FileEnd>							// This has to be on the End of this File and is very importand!
